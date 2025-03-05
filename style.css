@@ -1,0 +1,49 @@
+/* *{
+    outline: 1px solid red;
+} */
+nav{
+    background-color: #800080;
+    color: aqua !important;
+}
+
+.lien{
+    color: aqua;
+}
+
+.side{
+    height: 500px;
+    color: aqua;
+    background-color: green;
+}
+.main{
+    height: 200px;
+    color: aqua;
+    background-color: blue;
+}
+.cont{
+    margin-top: 1px;
+    display: flex;
+    gap: 3px;
+    /* margin: 1px; */
+}
+.cont1{
+    color: aqua;
+    height: 200px;
+    background-color: yellow;
+}
+.cont2{
+    height: 200px;
+    color: aqua;
+    background-color: #B22222;
+}
+.cont3{
+    height: 200px;
+    color: aqua;
+    background-color: #FFA500;
+}
+.foot{
+    height: 100px;
+     margin-top: 1px; 
+    color: aqua;
+    background-color: gray;
+}

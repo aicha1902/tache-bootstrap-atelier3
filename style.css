@@ -47,3 +47,9 @@ nav{
     color: aqua;
     background-color: gray;
 }
+@media screen and (max-width:768px) {
+    .cont{
+        display: flex;
+        flex-direction: column;
+    }
+}
